@@ -2,7 +2,7 @@
 This repository includes all the model code files used for training. These model code files are saved as per which data was used to train the them.
 
 # Folder
-
+```
 DDP_Code/
 │
 ├── DETR/
@@ -32,4 +32,4 @@ DDP_Code/
      └── Mix_Code
            ├── YOLOv7_tiny_Mix.ipynb - YOLOv7-tiny model code for Mix data
            └── coco.yaml - training, validation and testing dataset information
- 
+``` 
