@@ -5,7 +5,7 @@ This repository includes all the code files used for training. These model code 
 ```
 DDP_Code/
 │
-├── DETR/
+├── DETR
 │    │
 │    ├── BCD_Kaggle_Code
 │    │     └── DETR_BCGD.ipynb - DETR model code for BCD data
