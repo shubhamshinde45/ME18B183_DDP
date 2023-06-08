@@ -1,7 +1,7 @@
 # ME18B183_DDP
 This repository includes all the model code files used for training. These model code files are saved as per which data was used to train the them.
 
-## Folder
+# Folder
 
 DDP_Code/
 │
