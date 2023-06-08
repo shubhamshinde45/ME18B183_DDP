@@ -1,5 +1,5 @@
 # ME18B183_DDP
-This repository includes all the model code files used for training. These model code files are saved as per which data was used to train the them.
+This repository includes all the code files used for training. These model code files are saved as per the data used for training them.
 
 ## Repository Structure
 ```
